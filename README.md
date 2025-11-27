@@ -2,9 +2,10 @@
 Hack United 2023: Team Chouvengers
 
 ![ChoupinLogoSmall](https://github.com/MasterCheetah608/choupin/assets/83442445/ffca7ad7-14e3-45e5-a825-c912b4fcc5c7)
-https://www.youtube.com/watch?v=Od8vY6hmNeI
+
 (The name Choupin comes from our wonderful teacher Dr. Chou and the amazing composer Chopin)
 # Our Story
+https://www.youtube.com/watch?v=Od8vY6hmNeI
 We thought of music and mental health, and came up with a music therapy bot: Choupin! Our inspiration comes from piano apps.
 
 Most piano apps have non-customizable note lengths, weird key bindings, or are locked behind a paywall, so we decided to create our application.
